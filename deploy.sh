@@ -10,5 +10,6 @@ cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:Zero821/why_is_mace_mad.git master:gh-pages
+# change to your repo
+#git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 cd -
