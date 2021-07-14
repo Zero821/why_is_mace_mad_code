@@ -2,6 +2,8 @@
 
 a silly site that will tell you why a D&D party member's sentient weapon is currently upset with him.
 
+find out why Mace is mad for yourself at https://zero821.github.io/why_is_mace_mad/
+
 ## Project setup
 ```
 npm install
