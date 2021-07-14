@@ -23,6 +23,8 @@ export default {
                 'Torvaris got the last kill.',
                 'Briley got the last kill.',
                 'Fautha got the last kill.',
+                'Drix got the last kill',
+                'Drix brought up Limp Bizkit again',
                 'Some enemy is still alive.',
                 'Some innocent bystander is still alive.',
                 'A conversation didn\'t lead to murder.',
